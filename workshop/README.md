@@ -74,4 +74,3 @@ Sauce Labs also has a manual testing mode, where you can remotely control browse
 Ultimately Sauce Labs and Cypress offer very different value propositions. Sauce Labs doesn’t help you write your tests, it takes your existing tests and runs them across different browsers and aggregates the results for you.
 
 Cypress on the other hand helps you write your tests. You would use Cypress every day, building and testing your application, and then use Sauce Labs to ensure your application works on every browser.
-s
